@@ -1,6 +1,6 @@
 from loguru import logger
-from udpdatagram import UDPDatagram
-from videoprocessor import VideoProcessor
+# from xarxes2025.udpdatagram import UDPDatagram
+# from xarxes2025.videoprocessor import VideoProcessor
 
 
 class Server(object):
